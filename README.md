@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey guys
 
-<!--
-**viniestrella/viniestrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/viniestrella/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniestrella&count_private=true&show_icons=true&theme=vue-dark&show_owner=true" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue-dark&show_owner=true" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+
+
+- 🐟 I’m working with fish ecology
+- 📚 I'm learning the R and Python programming languages, with a focus on data manipulation, statistical analysis, graphing and mapping.
+- 📫 How to reach me: viniestrellasc@gmail.com
+
+<div style="display: inline_block"><br>
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-estrella/" target="_blank">
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+ </div>
+
