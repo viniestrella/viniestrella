@@ -15,8 +15,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  &nbsp &nbsp &nbsp
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  &nbsp &nbsp &nbsp
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-estrella/" target="_blank">
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
  </div>
+ 
+ 
 
