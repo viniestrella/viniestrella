@@ -2,7 +2,7 @@
 
 <a href="https://github.com/viniestrella/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniestrella&count_private=true&show_icons=true&theme=vue-dark&show_owner=true" />
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue-dark&show_owner=true" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=viniestrella&repo=github-readme-stats&theme=vue-dark&show_owner=true" />
 </a>
 
 
